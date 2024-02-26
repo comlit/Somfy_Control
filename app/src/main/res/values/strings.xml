@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Somfy Control</string>
+    <string name="app_name">Smart Home</string>
+    <string name="somfy_widget">Somfy Wigdet</string>
+    <string name="tradfri_widget">Tradfri Widget</string>
 </resources>
